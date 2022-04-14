@@ -1,0 +1,50 @@
+body
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading
+{
+    margin: 0px;
+    width: 100%;
+    font-size: 55px;
+    box-shadow: 10px 10px 10px lightblue;
+}
+
+.note
+{
+    font-size: 30px;
+    background-color: lightpink;
+    width: 100%;
+}
+
+.img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.volume
+{
+    float: right;
+}
+
+.speed
+{
+    float: left;
+}
+
+.play
+{
+    font-size: 40px;
+    background-color: plum;
+    color: white;
+    border-radius: 10px;
+}
+
+canvas
+{
+  border: 5px solid white;
+  border-radius: 10px;
+}
